@@ -1,4 +1,4 @@
 # creativeWidgetsServer
 server repo for creative widgets
 
-Legacy project
+for client see https://github.com/OGALEXI/creativeWidgetsClient
